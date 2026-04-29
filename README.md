@@ -4,7 +4,7 @@
 
 ## 📱 Установка
 
-Прямая ссылка на скачивание👇 https://github.com/sokawona/Flikky_release/releases/download/Flikky/flikky_v3.0.0.apk
+Прямая ссылка на скачивание👇 https://github.com/sokawona/Flikky_release/releases/download/Flikky/flikky_3.0.2.apk
 
 ## 🚀 Основные возможности
 
